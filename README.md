@@ -1,4 +1,9 @@
 # ANNs using Pytorch (Regression) – NYC Taxi Fares
+
+<p align="center">
+  <img src="cover.jpg" />
+</p>
+
 ## Data:
 In this playground competition, hosted in partnership with Google Cloud and Coursera, you are tasked
 with predicting the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and
